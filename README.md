@@ -1,7 +1,7 @@
 # Remote Sensing Image Classification 
 ### Undegraduation final year Project
->> Project Supervisor: Rashmi Saini
->> Students : Rohit, Deepak, Krishna, Neelesh
+>> * Project Supervisor: Mrs. Rashmi Saini 
+>> * Students : Rohit, Deepak, Krishna, Neelesh
 
 > **Note:** This code repository focuses at Land Use, Land Cover usecase of Remote sensing.
 
